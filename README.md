@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<!Good morning everyone. My name is Vishwa. I completed my schooling at Rainbow International Matric Higher Secondary School in Keelakalpoondi. Currently, I am pursuing Electronics and Communication Engineering at St. Joseph’s College of Engineering.
+I am a hardworking and motivated person who enjoys learning new things and developing my technical skills. My hobbies are studying and playing games. I like to take on new challenges and improve myself. My goal is to build a successful career in the engineering field and become a skilled professional.
+Thank you.-
 **vishwa-rajendiran/vishwa-rajendiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
